@@ -117,12 +117,3 @@ header nav a:hover{
 .carrosel-filmes{
     margin-top: 5px;
 }
-
-main button a{
-    text-decoration-line: none;
-    color: white;
-}
-
-main button a:hover{
-    color: black;
-}
